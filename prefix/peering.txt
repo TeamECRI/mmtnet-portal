@@ -1,0 +1,2 @@
+# IP address range for BGP peering endpoint
+192.168.120.0/22
