@@ -1,0 +1,4 @@
+65000   PEPEPPER    ppp@ecri.jp.eu.org
+65001   YUDEJP      i@yude.jp
+65002   MKNET       kusaremkn@gmail.com
+65003   SASAKULAB   i@sasakulab.com
